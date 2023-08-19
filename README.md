@@ -15,17 +15,29 @@ I'm dedicated to continuous growth, always eager to explore new avenues and stay
 
 # Skills 
 
- - Angular
- - JavaScript 
- - Ionic 
- - Miniprogram
- - Cypress 
- - Node - Express
- - Nx Monorepo
- - Firebase
- - MongoDB
- - HTML
- - CSS
+ <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+
+ <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+ 
+<img alt="cypress" src="https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+
+<img alt="ionic" src="https://img.shields.io/badge/ionic-grey?style=for-the-badge&logo=ionic" />
+ 
+<img alt="alipay-miniprogram" src="https://img.shields.io/badge/-MiniProgram-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
+
+<img alt="node" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+
+<img alt="express" src="https://img.shields.io/badge/express-grey?style=for-the-badge&logo=express" />
+
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    
+<img alt="firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
+
+<img alt="html5" src="https://img.shields.io/badge/html-grey?style=for-the-badge&logo=html5" />
+
+<img alt="css" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3"/>
+
+<img alt="nx monorepo" src="https://img.shields.io/badge/nx Monorepo-grey?style=for-the-badge&logo=nx" />
 
 ## Projects
 
@@ -34,7 +46,7 @@ I'm dedicated to continuous growth, always eager to explore new avenues and stay
     -  News portal web app for horse riding.News portal web app for horse riding.
             
         
-    -   **Technology:**  Angular
+    -   **Technology:**  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 
 
 - 
@@ -43,7 +55,7 @@ I'm dedicated to continuous growth, always eager to explore new avenues and stay
      -   Configured angular theme for user management & vegetable data management.Configured angular theme for user management & vegetable data management.
             
         
-    -    **Technology:**  Angular
+    -    **Technology:**  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> <img alt="firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/> <img alt="node" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
             
         
     
@@ -52,7 +64,7 @@ I'm dedicated to continuous growth, always eager to explore new avenues and stay
     -   Online food delivery web app.Online food delivery web app.
             
         
-    -    **Technology:**  Angular
+    -    **Technology:**  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> <img alt="node" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
                     
     
 -   Quickbooz
@@ -60,7 +72,7 @@ I'm dedicated to continuous growth, always eager to explore new avenues and stay
     -  Android mobile app for sale wines and drinks.Android mobile app for sale wines and drinks.
             
         
-    - **Technology:**  Ionic Framework
+    - **Technology:**  <img alt="ionic" src="https://img.shields.io/badge/ionic-grey?style=for-the-badge&logo=ionic" /> <img alt="firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/> <img alt="node" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
             
         
     
@@ -70,19 +82,20 @@ I'm dedicated to continuous growth, always eager to explore new avenues and stay
             Automated test cases generated using e2e testing framework(cypress).Designed custom clothes and shopping web app. Automated test cases generated using e2e testing framework(cypress).
             
         
-    - **Technology:**  Cypress
+    - **Technology:**  <img alt="cypress" src="https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+
 
 -   Koufu MiniProgram
     
     - Food ordering app for DineIn and Takeaway for alipay and chope super app.Food ordering app for DineIn and Takeaway for alipay and chope super app.
             
         
-    - **Technology:**  JavaScript · Miniprogram
+    - **Technology:**   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img alt="alipay-miniprogram" src="https://img.shields.io/badge/-MiniProgram-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
         
 - TMS
 	- Time management system upgraded from .net to js.
 	
-	-  **Technology:** Angular - Nx Monorepo
+	-  **Technology:** <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> <img alt="nx monorepo" src="https://img.shields.io/badge/nx Monorepo-grey?style=for-the-badge&logo=nx" /> <img alt="node" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 
 
 ## Experience
@@ -91,9 +104,10 @@ I'm dedicated to continuous growth, always eager to explore new avenues and stay
 - Cybercom Creations: Angular Developer 
 
 ## Contact
-<p align='center'>For enquiries, You can reach me at [hjchavda212@gmail.com](mailto:hjchavda212@gmail.com). <br/>
- or over on <br />
+<p align='center'>For enquiries, You can reach me at [hjchavda212@gmail.com](mailto:hjchavda212@gmail.com)
+ or over on 
 </p>
+<br/>
 
 <p align='center'>
 	<a href="<p align='center'>
