@@ -1,6 +1,8 @@
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Hitesh Chavda
+</p>
 
-
-# Hey! I am Hitesh Chavda.
 
 As a Angular Developer, I bring over 4 years of hands-on expertise in crafting dynamic web applications and solutions using Angular and various JavaScript frameworks. My journey in the tech realm has been a thrilling ride, marked by innovation and a strong commitment to excellence.
 
@@ -9,7 +11,9 @@ Throughout my career, I've been privileged to contribute to a diverse array of p
 I'm dedicated to continuous growth, always eager to explore new avenues and stay at the forefront of advancements. I'm not just a developer; I'm a problem solver, an innovative thinker, and a dedicated team player.
 
 
-## Skills 
+
+
+# Skills 
 
  - Angular
  - JavaScript 
@@ -87,6 +91,7 @@ I'm dedicated to continuous growth, always eager to explore new avenues and stay
 - Cybercom Creations: Angular Developer 
 
 ## Contact
+<p align='center'>For enquiries, You can reach me at [hjchavda212@gmail.com](mailto:hjchavda212@gmail.com).
+ or over on <a href="https://www.linkedin.com/in/im-hitesh2021">LinkedIn</a>.</p>
 
-- 📫 How to reach me: ...
-You can reach me at [hjchavda212@gmail.com](mailto:hjchavda212@gmail.com).
+<h1 align='center'><i>Stay awesome!</i></h1>
