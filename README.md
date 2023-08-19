@@ -16,15 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-# Profile/Portfolio Management
-
-This repository serves as a profile/portfolio management system.
-
-## Projects
-
-- Project 1: [Project 1 Name](link-to-project-1)
-- Project 2: [Project 2 Name](link-to-project-2)
-
 ## Skills
 
 - Angular
